@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Técnico Informático y Diseño Web</title>
+</head>
+
+<body bgcolor="#102A43" text="#ffffff" link="#D9F0FF" vlink="#A8D8FF">
+
+    <!-- ENCABEZADO -->
+    <table width="100%" bgcolor="#2F80ED" cellpadding="25" border="0">
+        <tr>
+            <td align="center">
+                <font color="#FFFFFF" size="7" face="Arial">
+                    <b>⚡ TÉCNICO INFORMÁTICO & DISEÑO WEB ⚡</b>
+                </font>
+                <br><br>
+                <font color="#FFFFFF" size="4" face="Arial">
+                    <b>Soluciones tecnológicas a tu medida</b>
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- MENÚ -->
+    <table width="90%" align="center" bgcolor="#62B6CB" border="3" cellpadding="12" cellspacing="0">
+        <tr align="center">
+            <td><a href="#servicios"><font color="#102A43" size="4"><b>SERVICIOS</b></font></a></td>
+            <td><a href="#beneficios"><font color="#102A43" size="4"><b>BENEFICIOS</b></font></a></td>
+            <td><a href="#precios"><font color="#102A43" size="4"><b>PRECIOS</b></font></a></td>
+            <td><a href="#contacto"><font color="#102A43" size="4"><b>CONTACTO</b></font></a></td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- PRESENTACIÓN -->
+    <table width="90%" align="center" bgcolor="#174A7E" border="4" cellpadding="25" cellspacing="0">
+        <tr>
+            <td>
+
+                <p align="center">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Computer_technician_01.jpg/800px-Computer_technician_01.jpg"
+                    alt="Técnico realizando mantenimiento a una computadora"
+                    width="520" border="2">
+                </p>
+
+                <h1 align="center">
+                    <font face="Arial" color="#FFD166">
+                        ¿Necesitas ayuda técnica o una página web?
+                    </font>
+                </h1>
+
+                <p align="center">
+                    <font face="Arial" size="4" color="#D9F0FF">
+                        Ofrezco servicios profesionales de
+                        <b>reparación de computadoras</b>,
+                        <b>mantenimiento preventivo y correctivo</b>,
+                        así como <b>creación y diseño de páginas web</b>
+                        modernas y funcionales.
+                    </font>
+                </p>
+
+                <p align="center">
+                    <font face="Arial" size="4" color="#A8D8FF">
+                        Atención personalizada, precios accesibles y garantía
+                        en todos mis trabajos.
+                    </font>
+                </p>
+
+                <p align="center">
+                    <a href="#contacto">
+                        <font size="5" color="#FFFFFF">
+                            <b>🚀 SOLICITA TU PRESUPUESTO GRATIS 🚀</b>
+                        </font>
+                    </a>
+                </p>
+
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- SERVICIOS -->
+    <a name="servicios"></a>
+
+    <table width="90%" align="center" bgcolor="#174A7E" border="4" cellpadding="25">
+        <tr bgcolor="#2F80ED">
+            <td align="center">
+                <font color="#FFFFFF" size="6" face="Arial">
+                    <b>✨ MIS SERVICIOS ✨</b>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <table width="100%" border="0" cellpadding="20">
+                    <tr valign="top">
+
+                        <td width="50%" bgcolor="#236B8E">
+                            <h2>
+                                <font face="Arial" color="#D9F0FF">
+                                    💻 TÉCNICO EN INFORMÁTICA
+                                </font>
+                            </h2>
+
+                            <font color="#FFFFFF" size="3">
+                                <ul>
+                                    <li>Reparación de computadoras</li>
+                                    <li>Eliminación de virus y malware</li>
+                                    <li>Instalación de Windows y Linux</li>
+                                    <li>Instalación de programas</li>
+                                    <li>Mantenimiento preventivo</li>
+                                    <li>Recuperación de datos</li>
+                                    <li>Actualización de hardware</li>
+                                    <li>Configuración de redes e internet</li>
+                                    <li>Asesoría técnica</li>
+                                </ul>
+                            </font>
+                        </td>
+
+                        <td width="50%" bgcolor="#28536B">
+                            <h2>
+                                <font face="Arial" color="#FFD166">
+                                    🌐 CREACIÓN Y DISEÑO WEB
+                                </font>
+                            </h2>
+
+                            <font color="#FFFFFF" size="3">
+                                <ul>
+                                    <li>Diseño de páginas web</li>
+                                    <li>Sitios para negocios</li>
+                                    <li>Portafolios personales</li>
+                                    <li>Tiendas online básicas</li>
+                                    <li>Páginas para promociones</li>
+                                    <li>Optimización básica</li>
+                                    <li>Mantenimiento de sitios</li>
+                                    <li>Registro de dominio y hosting</li>
+                                    <li>Asesoría en presencia digital</li>
+                                </ul>
+                            </font>
+                        </td>
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- BENEFICIOS -->
+    <a name="beneficios"></a>
+
+    <table width="90%" align="center" bgcolor="#174A7E" border="4" cellpadding="25">
+        <tr bgcolor="#2F80ED">
+            <td align="center">
+                <font color="#FFFFFF" size="6" face="Arial">
+                    <b>⭐ ¿POR QUÉ ELEGIRME? ⭐</b>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <table width="100%" cellpadding="15">
+                    <tr align="center">
+
+                        <td width="25%" bgcolor="#62B6CB">
+                            <font size="6">⚡</font><br>
+                            <font color="#102A43" size="4"><b>RAPIDEZ</b></font><br>
+                            <font color="#102A43" size="2">
+                                Respuesta rápida
+                            </font>
+                        </td>
+
+                        <td width="25%" bgcolor="#FFD166">
+                            <font size="6">💰</font><br>
+                            <font color="#28536B" size="4"><b>PRECIOS JUSTOS</b></font><br>
+                            <font color="#28536B" size="2">
+                                Presupuestos sin sorpresas
+                            </font>
+                        </td>
+
+                        <td width="25%" bgcolor="#A8D8FF">
+                            <font size="6">🛡️</font><br>
+                            <font color="#102A43" size="4"><b>GARANTÍA</b></font><br>
+                            <font color="#102A43" size="2">
+                                Trabajo respaldado
+                            </font>
+                        </td>
+
+                        <td width="25%" bgcolor="#D9F0FF">
+                            <font size="6">🤝</font><br>
+                            <font color="#102A43" size="4"><b>TRATO PERSONAL</b></font><br>
+                            <font color="#102A43" size="2">
+                                Atención personalizada
+                            </font>
+                        </td>
+
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- PRECIOS -->
+    <a name="precios"></a>
+
+    <table width="90%" align="center" bgcolor="#174A7E" border="4" cellpadding="25">
+        <tr bgcolor="#2F80ED">
+            <td align="center">
+                <font color="#FFFFFF" size="6">
+                    <b>💰 PRECIOS DE REFERENCIA 💰</b>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <table width="100%" border="2" cellpadding="12">
+
+                    <tr bgcolor="#62B6CB">
+                        <th align="left">
+                            <font color="#102A43" size="4">SERVICIO</font>
+                        </th>
+                        <th align="center">
+                            <font color="#102A43" size="4">PRECIO</font>
+                        </th>
+                    </tr>
+
+                    <tr bgcolor="#236B8E">
+                        <td>Diagnóstico y presupuesto</td>
+                        <td align="center"><b>GRATIS</b></td>
+                    </tr>
+
+                    <tr bgcolor="#28536B">
+                        <td>Mantenimiento básico de PC</td>
+                        <td align="center"><b>Desde $30</b></td>
+                    </tr>
+
+                    <tr bgcolor="#236B8E">
+                        <td>Eliminación de virus</td>
+                        <td align="center"><b>Desde $40</b></td>
+                    </tr>
+
+                    <tr bgcolor="#28536B">
+                        <td>Instalación de sistema operativo</td>
+                        <td align="center"><b>Desde $50</b></td>
+                    </tr>
+
+                    <tr bgcolor="#236B8E">
+                        <td>Página web básica</td>
+                        <td align="center"><b>Desde $150</b></td>
+                    </tr>
+
+                    <tr bgcolor="#28536B">
+                        <td>Página web profesional</td>
+                        <td align="center"><b>Desde $300</b></td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- CONTACTO -->
+    <a name="contacto"></a>
+
+    <table width="90%" align="center" bgcolor="#174A7E" border="4" cellpadding="25">
+        <tr bgcolor="#2F80ED">
+            <td align="center">
+                <font color="#FFFFFF" size="6">
+                    <b>📞 CONTACTO</b>
+                </font>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center">
+
+                <font color="#D9F0FF" size="4">
+                    Rellena el siguiente formulario y me pondré en contacto contigo.
+                </font>
+
+                <br><br>
+
+                <form>
+                    <p>
+                        <b>Nombre completo:</b><br>
+                        <input type="text" name="nombre" size="40">
+                    </p>
+
+                    <p>
+                        <b>Correo electrónico:</b><br>
+                        <input type="email" name="email" size="40">
+                    </p>
+
+                    <p>
+                        <b>Teléfono:</b><br>
+                        <input type="tel" name="telefono" size="20">
+                    </p>
+
+                    <p>
+                        <b>Tipo de servicio:</b><br>
+                        <select name="servicio">
+                            <option>Técnico en informática</option>
+                            <option>Creación de página web</option>
+                            <option>Ambos servicios</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <b>Mensaje:</b><br>
+                        <textarea rows="6" cols="50"></textarea>
+                    </p>
+
+                    <input type="submit" value="🚀 Enviar mensaje">
+                    <input type="reset" value="🔄 Limpiar">
+
+                </form>
+
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- PIE DE PÁGINA -->
+    <table width="100%" bgcolor="#2F80ED" cellpadding="20">
+        <tr>
+            <td align="center">
+                <font color="#FFFFFF" size="3">
+                    <b>© 2026 TÉCNICO EN INFORMÁTICA & DISEÑO WEB</b>
+                    <br><br>
+                    Página creada con HTML.
+                </font>
+            </td>
+        </tr>
+    </table>
+
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
